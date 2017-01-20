@@ -8,7 +8,7 @@
 * GitHub: @jonathon, @nick, @sjackson
 * data.world: @jonathon
 
-**Data:** Head over to [data.world](https://data.world/data4democracy/far-right) to check out our most up-to-date data! That's a private dataset, so ask @jonathon if you need access. 
+**Data:** Head over to [data.world](https://data.world/data4democracy/far-right) to check out our most up-to-date data! That's a private dataset, so ask @jonathon if you need access. It contains datasets specific to militia groups operating on Facebook, and white supremecists on Twitter, which might help you get started. Also, the [#assemble](https://datafordemocracy.slack.com/messages/assemble) channel in Slack is dedicated to collecting data for analysis, and may be able to help you build a dataset you need.
 
 **Project Description:** This repo is for collecting analyses related to the behavior of extreme far right online communities. It's likely that this will be temporary until we move to a platform that's designed more specifically for collaborative research, but it'll do in the meantime. Research/analysis ideas are collected [as issues](https://github.com/Data4Democracy/far-right-analysis/issues) - please don't hesitate to add your ideas, or take ownership of an analysis project that's interesting to you. 
 

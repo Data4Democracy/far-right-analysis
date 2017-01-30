@@ -28,4 +28,4 @@ There are several related veins of work going on in the group at the current tim
 
 ## Latest Project News
 
-Check out this Google Doc for the latest news on what we've done and what we're working on now.
+Check out this [Google Doc](https://docs.google.com/document/d/16C6tEZJ6i96PbWVUplRJW9IJeFW5TEsR0TsfzNOFYj4/edit) for the latest news on what we've done and what we're working on now.

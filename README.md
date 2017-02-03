@@ -5,12 +5,12 @@
 **Project Leads:** @nick, @sjackson, @jonathon
 
 **Maintainers (people with write/commit access):**
-* GitHub: @jonathon, @nick, @sjackson
+* GitHub: @jonathon, @nick, @sjacks26
 * data.world: @jonathon
 
 **Data:** Head over to [data.world](https://data.world/data4democracy/far-right) to check out our most up-to-date data! That's a private dataset, so ask @jonathon if you need access. It contains datasets specific to militia groups operating on Facebook, and white supremacists on Twitter, which might help you get started. Also, the [#assemble](https://datafordemocracy.slack.com/messages/assemble) channel in Slack (and the related [assemble GitHub repo](https://github.com/Data4Democracy/assemble)) is dedicated to collecting data for analysis, and may be able to help you build a dataset you need.
 
-**Project Description:** This repo is for collecting analyses related to the behavior of extreme far right online communities. It's likely that this will be temporary until we move to a platform that's designed more specifically for collaborative research, but it'll do in the meantime. Research/analysis ideas are collected [as issues](https://github.com/Data4Democracy/far-right-analysis/issues) - please don't hesitate to add your ideas, or take ownership of an analysis project that's interesting to you. 
+**Project Description:** This repo is for collecting analyses related to the behavior of extreme far right online communities. It's likely that this will be temporary until we move to a platform that's designed more specifically for collaborative research, but it'll do in the meantime. Research/analysis ideas are collected [as issues](https://github.com/Data4Democracy/far-right-analysis/issues) - please don't hesitate to add your ideas, or take ownership of an analysis project that's interesting to you. Definitely let someone know (in the issue or on Slack) if you start  on an idea, though, so we don't accidentally duplicate work.  
 
 There are several related veins of work going on in the group at the current time:
 * **Data Collection, Cleaning, and Joining**  

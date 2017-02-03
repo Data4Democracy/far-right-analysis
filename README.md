@@ -5,7 +5,7 @@
 **Project Leads:** @nick, @sjackson, @jonathon
 
 **Maintainers (people with write/commit access):**
-* GitHub: @jonathon, @nick, @sjackson
+* GitHub: @jonathon, @nick, @sjacks26
 * data.world: @jonathon
 
 **Data:** Head over to [data.world](https://data.world/data4democracy/far-right) to check out our most up-to-date data! That's a private dataset, so ask @jonathon if you need access. It contains datasets specific to militia groups operating on Facebook, and white supremacists on Twitter, which might help you get started. Also, the [#assemble](https://datafordemocracy.slack.com/messages/assemble) channel in Slack (and the related [assemble GitHub repo](https://github.com/Data4Democracy/assemble)) is dedicated to collecting data for analysis, and may be able to help you build a dataset you need.

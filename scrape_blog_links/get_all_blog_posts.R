@@ -1,7 +1,14 @@
 # scrape_blog_links_byyear: Function that takes a year & blog_domain as argument
 #    and grabs all links to posts from that year.  Returns a character vector
 #    of urls
+
+library(rvest); library(dplyr); library(stringr)
+library(lubridate); library(readr); library(httr)
+
 scrape_blog_links_byyear <- function(year, blog_domain){
+     require(rvest); require(dplyr); require(stringr)
+     require(lubridate); require(readr); require(httr)
+     
      blog_post_links <- list()
      if(year == year(now())){
           date_range <- seq(as.Date(paste0(year, "-01-01")), 
